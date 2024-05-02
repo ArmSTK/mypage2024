@@ -1,3 +1,22 @@
+img,.circle{
+    border-radius: 50%;
+
+}
+element.style {
+}
+.profile-detail {
+    background-color: white;
+    width: 60%;
+    margin: 5% auto 5% auto;
+    padding: 5%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #333333;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
 table {
     border-collapse: collapse;
     border: 2px solid rgb(140 140 140);
